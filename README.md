@@ -2,7 +2,13 @@
 
 ![background](https://github.com/FJGM2023015/FJGM2023015/assets/145473325/bdc54944-e426-4d0c-acd7-ccd094afb6eb)
 
-Experienced Sales Account Manager with 3+ years in the telecommunications industry, specializing in the strategic growth and digital transformation of key accounts across diverse sectors, including government, education, and mining. Proven track record of exceeding sales targets and driving operational efficiency through innovative solutions like Microsoft Azure, IoT, and SD-WAN. Skilled in leading cross-functional teams and building strong relationships with strategic partners such as Microsoft, CISCO, and SAP. Committed to leveraging my deep understanding of technology and client-centric approach to deliver enhanced business value and drive continuous improvement.
+🌍 Based in Dublin, Ireland, I blend a rich background in strategic sales management with a passion for data analytics and technological innovation. With over a decade of experience across the telecommunications industry in Chile, I've led numerous digital transformation projects with major impacts on business operations and growth.
+
+💼 My career journey has equipped me with deep expertise in cloud solutions, notably Microsoft Azure, and I hold a Microsoft Certified Azure Fundamentals certification. I'm proficient in employing advanced data manipulation, data management, and machine learning applications to enhance enterprise performance.
+
+👨‍💻 Here on GitHub, I'm excited to share my projects, collaborate on data-driven solutions, and contribute to a community that embraces innovation and continuous learning.
+
+📫 Feel free to connect with me here or through my LinkedIn.
 <!--
 **FJGM2023015/FJGM2023015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
