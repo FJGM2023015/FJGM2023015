@@ -1,4 +1,4 @@
-# Hi there, I am Francisco Gorigoitia👋
+# Hi there, I'm Francisco Gorigoitia!👋
 
 ![background](https://github.com/FJGM2023015/FJGM2023015/assets/145473325/bdc54944-e426-4d0c-acd7-ccd094afb6eb)
 
@@ -9,6 +9,12 @@
 👨‍💻 Here on GitHub, I'm excited to share my projects, collaborate on data-driven solutions, and contribute to a community that embraces innovation and continuous learning.
 
 📫 Feel free to connect with me here or through my LinkedIn.
+
+
+# Some highlighted projects
+
+# Churn Analysis
+https://github.com/FJGM2023015/Telecommunication-Churn/blob/main/Telecommunication_Churn.ipynb
 <!--
 **FJGM2023015/FJGM2023015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
