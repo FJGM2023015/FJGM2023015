@@ -11,10 +11,19 @@
 📫 Feel free to connect with me here or through my LinkedIn.
 
 
-# Some highlighted projects
+# 👨🏼‍💻 Some highlighted projects
 
-## Churn Analysis
+## 🎓 Churn Analysis
 https://github.com/FJGM2023015/Telecommunication-Churn/blob/main/Telecommunication_Churn.ipynb
+
+## 🎓 Recommendation System 
+https://github.com/FJGM2023015/Recommendation-System-Market-Basket-Analysis-
+
+## 🎓 Stocks Analysis (LR vs ARIMA)
+https://github.com/FJGM2023015/ML_Stocks_Project
+
+## 🎓 Text Analytics
+https://github.com/FJGM2023015/CA1_DVis_HDip_Lvl8-/blob/main/Francisco_Gorigoitia_DVisHDip_CA1.ipynb
 <!--
 **FJGM2023015/FJGM2023015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
