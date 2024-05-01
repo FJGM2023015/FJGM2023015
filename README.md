@@ -8,8 +8,8 @@
 
 👨‍💻 Here on GitHub, I'm excited to share my projects, collaborate on data-driven solutions, and contribute to a community that embraces innovation and continuous learning.
 
-📫 Feel free to connect with me here or through my LinkedIn.
-
+📫 Feel free to connect with me here or through my LinkedIn. 
+[![LinkedIn](https://www.linkedin.com/in/franciscogorigoitia/)]
 
 # 👨🏼‍💻 Some highlighted projects
 
