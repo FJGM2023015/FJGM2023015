@@ -1,5 +1,6 @@
 # Hi there, I am Francisco Gorigoitia👋
 
+![background](https://github.com/FJGM2023015/FJGM2023015/assets/145473325/bdc54944-e426-4d0c-acd7-ccd094afb6eb)
 
 Experienced Sales Account Manager with 3+ years in the telecommunications industry, specializing in the strategic growth and digital transformation of key accounts across diverse sectors, including government, education, and mining. Proven track record of exceeding sales targets and driving operational efficiency through innovative solutions like Microsoft Azure, IoT, and SD-WAN. Skilled in leading cross-functional teams and building strong relationships with strategic partners such as Microsoft, CISCO, and SAP. Committed to leveraging my deep understanding of technology and client-centric approach to deliver enhanced business value and drive continuous improvement.
 <!--
