@@ -2,7 +2,7 @@
 
 ![background](https://github.com/FJGM2023015/FJGM2023015/assets/145473325/bdc54944-e426-4d0c-acd7-ccd094afb6eb)
 
-🌍 Based in Dublin, Ireland, I blend a rich background in strategic sales management with a passion for data analytics and technological innovation. With over a decade of experience across the telecommunications industry in Chile, I've led numerous digital transformation projects with major impacts on business operations and growth.
+🌍 Based in Dublin, Ireland, I blend a rich background in strategic sales management with a passion for data analytics and technological innovation. With over a decade of experience across the telecommunications industry, I've led numerous digital transformation projects with major impacts on business operations and growth.
 
 💼 My career journey has equipped me with deep expertise in cloud solutions, notably Microsoft Azure, and I hold a Microsoft Certified Azure Fundamentals certification. I'm proficient in employing advanced data manipulation, data management, and machine learning applications to enhance enterprise performance.
 
