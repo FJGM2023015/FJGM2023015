@@ -13,7 +13,7 @@
 
 # Some highlighted projects
 
-# Churn Analysis
+## Churn Analysis
 https://github.com/FJGM2023015/Telecommunication-Churn/blob/main/Telecommunication_Churn.ipynb
 <!--
 **FJGM2023015/FJGM2023015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
