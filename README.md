@@ -10,6 +10,8 @@
 
 📫 Feel free to connect with me here or through my LinkedIn.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/franciscogorigoitia)
+
 # 👨🏼‍💻 Some highlighted projects
 
 ## 🎓 Churn Analysis
