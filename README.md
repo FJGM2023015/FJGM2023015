@@ -1,7 +1,6 @@
 # Hi there, I'm Francisco Gorigoitia!👋
 
-![Technology Partner Banner](https://github.com/FJGM2023015/FJGM2023015/assets/<img width="3776" height="1120" alt="327110120-bdc54944-e426-4d0c-acd7-ccd094afb6eb" src="https://github.com/user-attachments/assets/02a2e8ea-e28b-4c90-8cb1-bc5fd7f3a725" />
-)
+![Technology Partner Banner](https://github.com/user-attachments/assets/02a2e8ea-e28b-4c90-8cb1-bc5fd7f3a725)
 
 🌍 Based in Dublin, Ireland, I blend a rich background in strategic sales management with a passion for data analytics and technological innovation. With over a decade of experience across the telecommunications industry, I've led numerous digital transformation projects with major impacts on business operations and growth.
 
